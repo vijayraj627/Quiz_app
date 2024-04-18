@@ -1,0 +1,47 @@
+[
+    {
+        "question" : "What is capital of Maharastra",
+        "answerOptions" : [
+            {"text" : "Mumbai", "isCorrect" : true},
+            {"text" : "Pune", "isCorrect" : false},
+            {"text" : "Solapur", "isCorrect" : false},
+            {"text" : "Nagpur", "isCorrect" : false}
+        ]
+    },
+    {
+        "question" : "What is capital of Telangana",
+        "answerOptions" : [
+            {"text" : "Warangal", "isCorrect" : false},
+            {"text" : "Adilabad", "isCorrect" : false},
+            {"text" : "Hyderabad", "isCorrect" : true},
+            {"text" : "Kammam", "isCorrect" : false}
+        ]
+    },
+    {
+        "question" : "What is capital of Andhrapradesh",
+        "answerOptions" : [
+            {"text" : "Vijaywada", "isCorrect" : false},
+            {"text" : "Vishakapatnam", "isCorrect" : false},
+            {"text" : "Amravati", "isCorrect" : true},
+            {"text" : "Tirupati", "isCorrect" : false}
+        ]
+    },
+    {
+        "question" : "What is capital of Karnataka",
+        "answerOptions" : [
+            {"text" : "Udupi", "isCorrect" : false},
+            {"text" : "Hubbli", "isCorrect" : false},
+            {"text" : "Mysure", "isCorrect" : false},
+            {"text" : "Benguluru", "isCorrect" : true}
+        ]
+    },
+    {
+        "question" : "What is capital of Tamilnadu",
+        "answerOptions" : [
+            {"text" : "Coiambatturu", "isCorrect" : false},
+            {"text" : "Chennai", "isCorrect" : true},
+            {"text" : "Ooty", "isCorrect" : false},
+            {"text" : "Kodaicanal", "isCorrect" : false}
+        ]
+    }
+]
