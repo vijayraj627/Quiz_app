@@ -1,0 +1,49 @@
+.question {
+    width: 60%;
+    margin: 20px auto;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+ .options {
+    list-style-type: none;
+    display: grid;
+    padding: 0;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
+
+.options li button{
+    width: 100%;
+    margin-bottom: 10%
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.retry{
+    color: coral;
+}
+.results{
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.results ul{
+    list-style: none;
+    padding: 0;
+}
+.results li{
+    margin-bottom: 10px;
+}
+.results li[dataCorrect="true"]{
+    color: darkgreen;
+}
+.results li[dataCorrect="false"]{
+    color: red;
+}
